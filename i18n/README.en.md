@@ -1,10 +1,8 @@
----
-page_title: Totk-Cooking-simulator
-lang: en
----
-
 Totk-Cooking-simulator
 ====
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](https://github.com/KingFooZQ/Totk-Cooking-Simulator/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/KingFooZQ/Totk-Cooking-Simulator/blob/main/i18n/README.en.md)
+
 
 ## Intro
 

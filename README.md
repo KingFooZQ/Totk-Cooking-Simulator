@@ -1,10 +1,8 @@
----
-page_title: Totk-Cooking-simulator
-lang: zh
----
-
 Totk-Cooking-simulator
 ====
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](https://github.com/KingFooZQ/Totk-Cooking-Simulator/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/KingFooZQ/Totk-Cooking-Simulator/blob/main/i18n/README.en.md)
+
 
 ## 简介
 
@@ -18,7 +16,7 @@ from simulator import TotkCookSim
 sim = TotkCookSim()
 result = sim.cook(['天空蘑菇'], area_lang='CNzh')
 print(result)
-result = sim.cook(['Apple', 'Apple','Apple','Apple','Apple'])
+result = sim.cook(['Apple', 'Apple','Apple','Apple','Apple'], area_lang='USen')
 print(result)
 ```
 
