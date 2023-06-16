@@ -22,7 +22,7 @@ print(result)
 
 ## UI
 
-ui.py write a simle tkinter ui for program.
+ui.py write a simple tkinter ui for program.
 
 ## Update
 not enough testing, for now it just work.
