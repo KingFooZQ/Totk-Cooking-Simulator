@@ -1,0 +1,209 @@
+[
+    {
+        "EffectType": "LifeRecover",
+        "MinLv": 1,
+        "MaxLv": 160,
+        "SuperSuccessAddVolume": 12,
+        "Rate": 2.0,
+        "Priority": 13
+    },
+    {
+        "EffectType": "LifeMaxUp",
+        "MinLv": 4,
+        "MaxLv": 108,
+        "SuperSuccessAddVolume": 4,
+        "Rate": 1.0,
+        "Priority": 3
+    },
+    {
+        "EffectType": "StaminaRecover",
+        "MinLv": 1,
+        "MaxLv": 15,
+        "SuperSuccessAddVolume": 2,
+        "Rate": 1.399999976158142,
+        "Priority": 2
+    },
+    {
+        "EffectType": "ExStaminaMaxUp",
+        "MinLv": 1,
+        "MaxLv": 20,
+        "SuperSuccessAddVolume": 2,
+        "Rate": 0.5,
+        "Priority": 1
+    },
+    {
+        "EffectType": "ResistHot",
+        "BaseTime": 120,
+        "MinLv": 1,
+        "MaxLv": 2,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.3499999940395355,
+        "Priority": 8,
+        "LevelThreshold": [1, 6]
+    },
+    {
+        "EffectType": "ResistCold",
+        "BaseTime": 120,
+        "MinLv": 1,
+        "MaxLv": 2,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.3499999940395355,
+        "Priority": 7,
+        "LevelThreshold": [1, 6]
+    },
+    {
+        "EffectType": "ResistElectric",
+        "BaseTime": 120,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.5,
+        "Priority": 9,
+        "LevelThreshold": [1, 4, 6]
+    },
+    {
+        "EffectType": "AllSpeed",
+        "BaseTime": 30,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.44999998807907104,
+        "Priority": 5,
+        "LevelThreshold": [1, 5, 7]
+    },
+    {
+        "EffectType": "AttackUp",
+        "BaseTime": 20,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.44999998807907104,
+        "Priority": 10,
+        "LevelThreshold": [1, 5, 7]
+    },
+    {
+        "EffectType": "DefenseUp",
+        "BaseTime": 20,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.44999998807907104,
+        "Priority": 11
+    },
+    {
+        "EffectType": "QuietnessUp",
+        "BaseTime": 90,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.3499999940395355,
+        "Priority": 12,
+        "LevelThreshold": [1, 6, 9]
+    },
+    {
+        "EffectType": "ResistBurn",
+        "BaseTime": 120,
+        "MinLv": 1,
+        "MaxLv": 2,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.30000001192092896,
+        "Priority": 4,
+        "LevelThreshold": [1, 7]
+    },
+    {
+        "EffectType": "TwiceJump",
+        "BaseTime": 60,
+        "MinLv": 1,
+        "MaxLv": 2,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 1.7999999523162842,
+        "Priority": 10
+    },
+    {
+        "EffectType": "EmergencyAvoid",
+        "BaseTime": 60,
+        "MinLv": 1,
+        "MaxLv": 2,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 1.7999999523162842,
+        "Priority": 10
+    },
+    {
+        "EffectType": "LifeRepair",
+        "MinLv": 4,
+        "MaxLv": 108,
+        "SuperSuccessAddVolume": 8,
+        "Rate": 1.0,
+        "Priority": 3
+    },
+    {
+        "EffectType": "LightEmission",
+        "BaseTime": 90,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.44999998807907104,
+        "Priority": 1,
+        "LevelThreshold": [1, 5, 7]
+    },
+    {
+        "EffectType": "NotSlippy",
+        "BaseTime": 90,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.44999998807907104,
+        "Priority": 5,
+        "LevelThreshold": [1, 5, 7]
+    },
+    {
+        "EffectType": "SwimSpeedUp",
+        "BaseTime": 90,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.3499999940395355,
+        "Priority": 5,
+        "LevelThreshold": [1, 6, 9]
+    },
+    {
+        "EffectType": "AttackUpCold",
+        "BaseTime": 30,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.3499999940395355,
+        "Priority": 5,
+        "LevelThreshold": [1, 6, 9]
+    },
+    {
+        "EffectType": "AttackUpHot",
+        "BaseTime": 30,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.3499999940395355,
+        "Priority": 5,
+        "LevelThreshold": [1, 6, 9]
+    },
+    {
+        "EffectType": "AttackUpThunderstorm",
+        "BaseTime": 30,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 0.3499999940395355,
+        "Priority": 5,
+        "LevelThreshold": [1, 6, 9]
+    },
+    {
+        "EffectType": "MiasmaGuard",
+        "BaseTime": 120,
+        "MinLv": 1,
+        "MaxLv": 3,
+        "SuperSuccessAddVolume": 1,
+        "Rate": 1.0,
+        "Priority": 5,
+        "LevelThreshold": [1, 2, 3]
+    }
+]

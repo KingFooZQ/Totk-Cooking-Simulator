@@ -1,0 +1,1241 @@
+[
+    {
+        "ResultActorName": "Item_Cook_C_16",
+        "Recipe": "Animal_Insect_F + CookGolem or CookForeign",
+        "Icon": "assets/icon/Item_Cook_C_16.png",
+        "PictureBookNum": 228,
+        "BonusHeart": -12,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_C_16",
+        "Recipe": "Animal_Insect_F + CookOre + CookInsect + CookEnemy",
+        "Icon": "assets/icon/Item_Cook_C_16.png",
+        "PictureBookNum": 228,
+        "BonusHeart": -12,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_C_16",
+        "Recipe": "Animal_Insect_F + CookInsect + CookEnemy",
+        "Icon": "assets/icon/Item_Cook_C_16.png",
+        "PictureBookNum": 228,
+        "BonusHeart": -12,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_C_16",
+        "Recipe": "Animal_Insect_F + CookOre or CookEnemy or CookInsect",
+        "Icon": "assets/icon/Item_Cook_C_16.png",
+        "PictureBookNum": 228,
+        "BonusHeart": -12,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_O_01",
+        "Recipe": "CookForeign",
+        "Icon": "assets/icon/Item_Cook_O_01.png",
+        "PictureBookNum": 145,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_O_01",
+        "Recipe": "CookGolem",
+        "Icon": "assets/icon/Item_Cook_O_01.png",
+        "PictureBookNum": 145,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_O_02",
+        "Recipe": "CookOre",
+        "Icon": "assets/icon/Item_Cook_O_02.png",
+        "PictureBookNum": 146,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_C_17",
+        "Recipe": "CookEnemy + CookInsect",
+        "Icon": "assets/icon/Item_Cook_C_17_EffectType.png",
+        "PictureBookNum": 229,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_O_01",
+        "Recipe": "CookEnemy or CookInsect",
+        "Icon": "assets/icon/Item_Cook_O_01.png",
+        "PictureBookNum": 145,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_N_02",
+        "Recipe": "Item_Fruit_A or Item_Fruit_B or Item_Fruit_P + Item_Fruit_B or Item_Fruit_C or Item_Fruit_F or Item_Fruit_H or Item_Fruit_G or Item_Fruit_A or Item_Fruit_P + Item_Material_07 + Item_Material_01",
+        "Icon": "assets/icon/Item_Cook_N_02.png",
+        "PictureBookNum": 126,
+        "BonusHeart": 4,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_N_01",
+        "Recipe": "Item_FishGet_F or Item_FishGet_G + Item_InsectGet_K or Item_InsectGet_O + Item_Material_03 + Item_Material_06 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_N_01.png",
+        "PictureBookNum": 88,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_S_05",
+        "Recipe": "Item_Material_11 + CookMeat + CookFish",
+        "Icon": "assets/icon/Item_Cook_S_05.png",
+        "PictureBookNum": 140,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_S_06",
+        "Recipe": "Item_Material_11 + Item_Ore_H + Item_Material_03",
+        "Icon": "assets/icon/Item_Cook_S_06.png",
+        "PictureBookNum": 143,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_S_07",
+        "Recipe": "Item_Material_11 + Item_Material_07 + Item_Material_06 + Item_Material_05",
+        "Icon": "assets/icon/Item_Cook_S_07.png",
+        "PictureBookNum": 141,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_S_08",
+        "Recipe": "Item_Material_11 + Item_Material_02 + Item_Material_03",
+        "Icon": "assets/icon/Item_Cook_S_08.png",
+        "PictureBookNum": 142,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_S_09",
+        "Recipe": "Item_Material_11 + Item_Material_01 + Item_Material_07 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_S_09.png",
+        "PictureBookNum": 144,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_L_05",
+        "Recipe": "Item_Material_03 + Item_Material_02 + Item_Material_08",
+        "Icon": "assets/icon/Item_Cook_L_05.png",
+        "PictureBookNum": 137,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_L_04",
+        "Recipe": "Item_Material_03 + Item_Ore_H + Item_Material_08",
+        "Icon": "assets/icon/Item_Cook_L_04.png",
+        "PictureBookNum": 138,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_L_03",
+        "Recipe": "Item_Material_07 + Item_Material_01 + Item_Material_08 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_L_03.png",
+        "PictureBookNum": 139,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_L_02",
+        "Recipe": "Item_Material_07 + Item_Material_06 + Item_Material_05 + Item_Material_08",
+        "Icon": "assets/icon/Item_Cook_L_02.png",
+        "PictureBookNum": 136,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_L_01",
+        "Recipe": "CookMeat + CookFish + Item_Material_08",
+        "Icon": "assets/icon/Item_Cook_L_01.png",
+        "PictureBookNum": 135,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_F_04",
+        "Recipe": "Item_PlantGet_B or Item_PlantGet_C + Item_Fruit_C + Item_Fruit_F + Item_Material_05",
+        "Icon": "assets/icon/Item_Cook_F_04.png",
+        "PictureBookNum": 59,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_K_04",
+        "Recipe": "Item_FishGet_M + Item_Material_07 + Item_Material_05 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_K_04.png",
+        "PictureBookNum": 58,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_K_03",
+        "Recipe": "Item_Fruit_J or Item_Fruit_N + Item_Material_07 + Item_Material_05 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_K_03.png",
+        "PictureBookNum": 75,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_K_05",
+        "Recipe": "Item_Meat_11 or Item_Meat_12 + Item_Material_07 + Item_Material_05 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_K_05.png",
+        "PictureBookNum": 78,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_K_02",
+        "Recipe": "Item_Meat_02 or Item_Meat_07 + Item_Material_07 + Item_Material_05 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_K_02.png",
+        "PictureBookNum": 77,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_K_01",
+        "Recipe": "Item_Meat_01 or Item_Meat_06 + Item_Material_07 + Item_Material_05 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_K_01.png",
+        "PictureBookNum": 76,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_J_09",
+        "Recipe": "Item_Meat_11 + Item_Material_03 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_J_09.png",
+        "PictureBookNum": 68,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_J_08",
+        "Recipe": "Item_Meat_12 + Item_Material_03 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_J_08.png",
+        "PictureBookNum": 71,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_J_07",
+        "Recipe": "Item_Meat_02 + Item_Material_03 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_J_07.png",
+        "PictureBookNum": 67,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_J_05",
+        "Recipe": "Item_Meat_07 + Item_Material_03 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_J_05.png",
+        "PictureBookNum": 70,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_J_06",
+        "Recipe": "Item_Meat_01 + Item_Material_03 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_J_06.png",
+        "PictureBookNum": 66,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_J_04",
+        "Recipe": "Item_Meat_06 + Item_Material_03 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_J_04.png",
+        "PictureBookNum": 69,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_J_03",
+        "Recipe": "Item_FishGet_F or Item_FishGet_G + Item_Material_03 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_J_03.png",
+        "PictureBookNum": 72,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_J_02",
+        "Recipe": "Item_Fruit_J or Item_PlantGet_M or Item_PlantGet_Q or Item_Fruit_N + Item_Material_03 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_J_02.png",
+        "PictureBookNum": 65,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_06",
+        "Recipe": "Item_Fruit_J or Item_Fruit_N + Item_Material_07 + Item_Material_01 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_I_06.png",
+        "PictureBookNum": 128,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_05",
+        "Recipe": "Item_PlantGet_M or Item_PlantGet_Q + Item_Material_07 + Item_Material_01 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_I_05.png",
+        "PictureBookNum": 127,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_11",
+        "Recipe": "Item_Material_07 + Item_Material_05 + Item_Material_04 + Item_Material_01 + Item_Fruit_B",
+        "Icon": "assets/icon/Item_Cook_I_11.png",
+        "PictureBookNum": 123,
+        "BonusHeart": 16,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_17",
+        "Recipe": "Item_Material_07 + Item_Material_05 + Item_Material_04 + Item_Material_01 + BeeHome",
+        "Icon": "assets/icon/Item_Cook_I_17.png",
+        "PictureBookNum": 124,
+        "BonusHeart": 4,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_10",
+        "Recipe": "Item_Material_07 + Item_Material_05 + Item_Material_04 + Item_Material_01",
+        "Icon": "assets/icon/Item_Cook_I_10.png",
+        "PictureBookNum": 122,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_02",
+        "Recipe": "Item_Fruit_A or Item_Fruit_P + Item_Material_07 + Item_Material_06 + Item_Material_01",
+        "Icon": "assets/icon/Item_Cook_I_02.png",
+        "PictureBookNum": 131,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_12",
+        "Recipe": "Item_Material_07 + Item_Material_06 + Item_Material_01 + Item_Fruit_L or Item_Fruit_K",
+        "Icon": "assets/icon/Item_Cook_I_12.png",
+        "PictureBookNum": 125,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_03",
+        "Recipe": "Item_Material_04 + Item_Material_07 + Item_Material_06 + Item_Material_01",
+        "Icon": "assets/icon/Item_Cook_I_03.png",
+        "PictureBookNum": 132,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_14",
+        "Recipe": "Item_Material_04 + Item_Material_05 + Item_Material_01",
+        "Icon": "assets/icon/Item_Cook_I_14.png",
+        "PictureBookNum": 121,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_13",
+        "Recipe": "Item_Fruit_H + Item_Material_07 + Item_Material_01",
+        "Icon": "assets/icon/Item_Cook_I_13.png",
+        "PictureBookNum": 120,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_01",
+        "Recipe": "CookFruit + Item_Material_07 + Item_Material_06 + Item_Material_01",
+        "Icon": "assets/icon/Item_Cook_I_01.png",
+        "PictureBookNum": 130,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_04",
+        "Recipe": "CookMeat + Item_Material_07 + Item_Material_06 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_I_04.png",
+        "PictureBookNum": 108,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_15",
+        "Recipe": "CookFish + Item_Material_07 + Item_Material_06 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_I_15.png",
+        "PictureBookNum": 109,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_H_03",
+        "Recipe": "Item_FishGet_I + Item_Material_06 + Item_Material_07",
+        "Icon": "assets/icon/Item_Cook_H_03.png",
+        "PictureBookNum": 45,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_14",
+        "Recipe": "Item_FishGet_I + Item_Material_03 + Item_Ore_H + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_G_14.png",
+        "PictureBookNum": 82,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_17",
+        "Recipe": "Item_InsectGet_K or Item_InsectGet_O or Item_InsectGet_Z + Item_Material_03 + Item_Ore_H + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_G_17.png",
+        "PictureBookNum": 83,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_13",
+        "Recipe": "Item_Fruit_J or Item_PlantGet_M or Item_PlantGet_Q or Item_Fruit_N + Item_Material_03 + Item_Ore_H + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_G_13.png",
+        "PictureBookNum": 80,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_12",
+        "Recipe": "CookMushroom + Item_Material_03 + Item_Ore_H + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_G_12.png",
+        "PictureBookNum": 81,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_K_06",
+        "Recipe": "CookMushroom + CookPlant + Item_Ore_H + Item_Material_05",
+        "Icon": "assets/icon/Item_Cook_K_06.png",
+        "PictureBookNum": 55,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_F_03",
+        "Recipe": "Item_Fruit_J or Item_PlantGet_M or Item_PlantGet_Q or Item_Fruit_N + Item_Ore_H + Item_Material_05",
+        "Icon": "assets/icon/Item_Cook_F_03.png",
+        "PictureBookNum": 54,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_F_01",
+        "Recipe": "CookMeat + CookPlant + Item_Ore_H + Item_Material_05",
+        "Icon": "assets/icon/Item_Cook_F_01.png",
+        "PictureBookNum": 56,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_F_02",
+        "Recipe": "CookFish + CookPlant + Item_Ore_H + Item_Material_05",
+        "Icon": "assets/icon/Item_Cook_F_02.png",
+        "PictureBookNum": 57,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_K_07",
+        "Recipe": "CookPlant + Item_Ore_H + Item_Material_05",
+        "Icon": "assets/icon/Item_Cook_K_07.png",
+        "PictureBookNum": 53,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_R_02",
+        "Recipe": "CookPlant + Item_Material_03 + Item_Material_05",
+        "Icon": "assets/icon/Item_Cook_R_02.png",
+        "PictureBookNum": 104,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_02",
+        "Recipe": "Item_Fruit_M + Item_Material_05 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_Q_02.png",
+        "PictureBookNum": 50,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_03",
+        "Recipe": "CookPlant + Item_Fruit_M",
+        "Icon": "assets/icon/Item_Cook_Q_03.png",
+        "PictureBookNum": 10,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_04",
+        "Recipe": "CookMushroom + Item_Fruit_M",
+        "Icon": "assets/icon/Item_Cook_Q_04.png",
+        "PictureBookNum": 51,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_05",
+        "Recipe": "CookFish + Item_Fruit_M",
+        "Icon": "assets/icon/Item_Cook_Q_05.png",
+        "PictureBookNum": 52,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_08",
+        "Recipe": "CookMeat + Item_Material_09 + Item_Material_03 + Item_Material_04",
+        "Icon": "assets/icon/Item_Cook_Q_08.png",
+        "PictureBookNum": 91,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_09",
+        "Recipe": "Item_Material_10 + Item_Material_07 + Item_Material_01",
+        "Icon": "assets/icon/Item_Cook_Q_09.png",
+        "PictureBookNum": 129,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_10",
+        "Recipe": "CookFish or CookMushroom or CookPlant + Item_Material_10 + Item_Material_03 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_Q_10.png",
+        "PictureBookNum": 84,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_R_01",
+        "Recipe": "CookMushroom or CookPlant + Item_Material_10 + Item_Material_04 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_R_01.png",
+        "PictureBookNum": 115,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_R_03",
+        "Recipe": "Item_Fruit_G + Item_Fruit_F + Item_Fruit_C + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_R_03.png",
+        "PictureBookNum": 134,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_R_04",
+        "Recipe": "Item_Fruit_M + Item_Material_07 + Item_Material_10",
+        "Icon": "assets/icon/Item_Cook_R_04.png",
+        "PictureBookNum": 107,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_R_05",
+        "Recipe": "CookFish + Item_PlantGet_S + Item_Material_09",
+        "Icon": "assets/icon/Item_Cook_R_05.png",
+        "PictureBookNum": 39,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_R_06",
+        "Recipe": "Item_Meat_06 + Item_Material_09",
+        "Icon": "assets/icon/Item_Cook_R_06.png",
+        "PictureBookNum": 40,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_R_07",
+        "Recipe": "Item_Meat_07 + Item_Material_09",
+        "Icon": "assets/icon/Item_Cook_R_07.png",
+        "PictureBookNum": 41,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_R_08",
+        "Recipe": "Item_Meat_12 + Item_Material_09",
+        "Icon": "assets/icon/Item_Cook_R_08.png",
+        "PictureBookNum": 42,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_R_09",
+        "Recipe": "Item_Material_07 + Item_Material_10",
+        "Icon": "assets/icon/Item_Cook_R_09.png",
+        "PictureBookNum": 106,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_R_10",
+        "Recipe": "CookFish + Item_Material_10",
+        "Icon": "assets/icon/Item_Cook_R_10.png",
+        "PictureBookNum": 111,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_S_01",
+        "Recipe": "Item_Material_03 + Item_Material_10 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_S_01.png",
+        "PictureBookNum": 73,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_S_02",
+        "Recipe": "Item_Meat_01 + Item_Material_03 + Item_Material_10 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_S_02.png",
+        "PictureBookNum": 97,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_S_03",
+        "Recipe": "Item_Meat_02 + Item_Material_03 + Item_Material_10 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_S_03.png",
+        "PictureBookNum": 98,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_S_04",
+        "Recipe": "Item_Meat_11 + Item_Material_03 + Item_Material_10 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_S_04.png",
+        "PictureBookNum": 99,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_S_10",
+        "Recipe": "Item_Fruit_M + Item_Material_10",
+        "Icon": "assets/icon/Item_Cook_S_10.png",
+        "PictureBookNum": 110,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_K_08",
+        "Recipe": "Item_PlantGet_M or Item_PlantGet_Q + Item_Material_06 + Item_Material_05 + Item_Material_07",
+        "Icon": "assets/icon/Item_Cook_K_08.png",
+        "PictureBookNum": 74,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_N_04",
+        "Recipe": "CookMushroom + Item_Material_04 + Item_Ore_H + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_N_04.png",
+        "PictureBookNum": 114,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_16",
+        "Recipe": "Item_InsectGet_K or Item_InsectGet_O or Item_InsectGet_Z + Item_Material_04 + Item_Material_03 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_G_16.png",
+        "PictureBookNum": 93,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_E_03",
+        "Recipe": "Item_Meat_12 + Item_Material_04 + Item_Material_03 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_E_03.png",
+        "PictureBookNum": 87,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_E_02",
+        "Recipe": "Item_Meat_07 + Item_Material_04 + Item_Material_03 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_E_02.png",
+        "PictureBookNum": 86,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_E_01",
+        "Recipe": "Item_Meat_06 + Item_Material_04 + Item_Material_03 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_E_01.png",
+        "PictureBookNum": 85,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_N_03",
+        "Recipe": "CookPlant + Item_Material_04 + Item_Material_06 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_N_03.png",
+        "PictureBookNum": 113,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_H_02",
+        "Recipe": "Item_FishGet_F or Item_FishGet_G + Item_Material_06 + Item_Material_07",
+        "Icon": "assets/icon/Item_Cook_H_02.png",
+        "PictureBookNum": 44,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_H_01",
+        "Recipe": "CookFish + Item_Material_06 + Item_Material_07",
+        "Icon": "assets/icon/Item_Cook_H_01.png",
+        "PictureBookNum": 43,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_10",
+        "Recipe": "Item_FishGet_F or Item_FishGet_G + Item_Material_03 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_G_10.png",
+        "PictureBookNum": 92,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_11",
+        "Recipe": "Item_Material_02 + Item_Material_03 + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_G_11.png",
+        "PictureBookNum": 89,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_09",
+        "Recipe": "Item_Meat_11 + Item_Material_03 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_G_09.png",
+        "PictureBookNum": 96,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_06",
+        "Recipe": "Item_Meat_02 + Item_Material_03 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_G_06.png",
+        "PictureBookNum": 95,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_05",
+        "Recipe": "Item_Meat_01 + Item_Material_03 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_G_05.png",
+        "PictureBookNum": 94,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_E_04",
+        "Recipe": "Item_Material_03 + Item_Material_04",
+        "Icon": "assets/icon/Item_Cook_E_04.png",
+        "PictureBookNum": 90,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_15",
+        "Recipe": "CookMeat + Item_Material_03",
+        "Icon": "assets/icon/Item_Cook_G_15.png",
+        "PictureBookNum": 102,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_02",
+        "Recipe": "CookFish + Item_Material_03",
+        "Icon": "assets/icon/Item_Cook_G_02.png",
+        "PictureBookNum": 103,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_04",
+        "Recipe": "CookMushroom + Item_Material_03",
+        "Icon": "assets/icon/Item_Cook_G_04.png",
+        "PictureBookNum": 101,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_G_03",
+        "Recipe": "CookPlant + Item_Material_03",
+        "Icon": "assets/icon/Item_Cook_G_03.png",
+        "PictureBookNum": 100,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_07",
+        "Recipe": "Item_Fruit_A or Item_Fruit_P + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_I_07.png",
+        "PictureBookNum": 116,
+        "BonusHeart": 4,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_20",
+        "Recipe": "Item_Fruit_J or Item_Fruit_N + CookMeat",
+        "Icon": "assets/icon/Item_Cook_B_20.png",
+        "PictureBookNum": 79,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_12",
+        "Recipe": "CookMeat + BeeHome",
+        "Icon": "assets/icon/Item_Cook_A_12.png",
+        "PictureBookNum": 62,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_13",
+        "Recipe": "CookFish + BeeHome",
+        "Icon": "assets/icon/Item_Cook_A_13.png",
+        "PictureBookNum": 63,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_11",
+        "Recipe": "CookMushroom + BeeHome",
+        "Icon": "assets/icon/Item_Cook_A_11.png",
+        "PictureBookNum": 61,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_14",
+        "Recipe": "CookPlant + BeeHome",
+        "Icon": "assets/icon/Item_Cook_A_14.png",
+        "PictureBookNum": 60,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_J_01",
+        "Recipe": "Item_Material_03 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_J_01.png",
+        "PictureBookNum": 64,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_08",
+        "Recipe": "Item_Fruit_A or Item_Fruit_P + BeeHome",
+        "Icon": "assets/icon/Item_Cook_I_08.png",
+        "PictureBookNum": 118,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_I_09",
+        "Recipe": "CookFruit + BeeHome",
+        "Icon": "assets/icon/Item_Cook_I_09.png",
+        "PictureBookNum": 117,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_P_05",
+        "Recipe": "Item_Meat_11 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_P_05.png",
+        "PictureBookNum": 23,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_P_04",
+        "Recipe": "Item_Meat_02 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_P_04.png",
+        "PictureBookNum": 22,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_P_03",
+        "Recipe": "Item_Meat_01 + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_P_03.png",
+        "PictureBookNum": 21,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_P_01",
+        "Recipe": "CookMushroom + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_P_01.png",
+        "PictureBookNum": 36,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_P_02",
+        "Recipe": "CookPlant + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_P_02.png",
+        "PictureBookNum": 35,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_D_06",
+        "Recipe": "Item_Meat_11 or Item_Meat_12 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_D_06.png",
+        "PictureBookNum": 32,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_D_05",
+        "Recipe": "Item_Meat_07 or Item_Meat_02 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_D_05.png",
+        "PictureBookNum": 31,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_D_04",
+        "Recipe": "Item_Meat_01 or Item_Meat_06 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_D_04.png",
+        "PictureBookNum": 30,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_D_10",
+        "Recipe": "Item_InsectGet_K or Item_InsectGet_O or Item_InsectGet_Z + Item_Material_02",
+        "Icon": "assets/icon/Item_Cook_D_10.png",
+        "PictureBookNum": 24,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_D_09",
+        "Recipe": "Item_InsectGet_K or Item_InsectGet_O or Item_InsectGet_Z + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_D_09.png",
+        "PictureBookNum": 34,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_02",
+        "Recipe": "Item_Fruit_M + Item_Material_05 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_Q_02.png",
+        "PictureBookNum": 50,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_D_03",
+        "Recipe": "CookFish + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_D_03.png",
+        "PictureBookNum": 33,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_M_01",
+        "Recipe": "Item_Material_07 + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_M_01.png",
+        "PictureBookNum": 105,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_D_02",
+        "Recipe": "CookPlant + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_D_02.png",
+        "PictureBookNum": 28,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_D_01",
+        "Recipe": "CookMushroom + Item_Ore_H",
+        "Icon": "assets/icon/Item_Cook_D_01.png",
+        "PictureBookNum": 29,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_16",
+        "Recipe": "CookMeat + CookMeat + CookMeat + CookMeat",
+        "Icon": "assets/icon/Item_Cook_B_16.png",
+        "PictureBookNum": 7,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_11",
+        "Recipe": "CookPlant + CookPlant + CookPlant + CookPlant",
+        "Icon": "assets/icon/Item_Cook_B_11.png",
+        "PictureBookNum": 17,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_12",
+        "Recipe": "CookFruit + CookFruit + CookFruit + CookFruit",
+        "Icon": "assets/icon/Item_Cook_B_12.png",
+        "PictureBookNum": 48,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_13",
+        "Recipe": "CookMushroom + CookMushroom + CookMushroom + CookMushroom",
+        "Icon": "assets/icon/Item_Cook_B_13.png",
+        "PictureBookNum": 20,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_15",
+        "Recipe": "CookFish + CookFish + CookFish + CookFish",
+        "Icon": "assets/icon/Item_Cook_B_15.png",
+        "PictureBookNum": 8,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_06",
+        "Recipe": "CookMeat + CookMeat",
+        "Icon": "assets/icon/Item_Cook_B_06.png",
+        "PictureBookNum": 4,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_02",
+        "Recipe": "CookFruit + CookFruit",
+        "Icon": "assets/icon/Item_Cook_B_02.png",
+        "PictureBookNum": 47,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_01",
+        "Recipe": "CookMushroom + CookMushroom",
+        "Icon": "assets/icon/Item_Cook_A_01.png",
+        "PictureBookNum": 1,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_01",
+        "Recipe": "CookPlant + CookPlant",
+        "Icon": "assets/icon/Item_Cook_B_01.png",
+        "PictureBookNum": 16,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_19",
+        "Recipe": "Item_Meat_11 or Item_Meat_12 + CookFish",
+        "Icon": "assets/icon/Item_Cook_B_19.png",
+        "PictureBookNum": 27,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_18",
+        "Recipe": "Item_Meat_02 or Item_Meat_07 + CookFish",
+        "Icon": "assets/icon/Item_Cook_B_18.png",
+        "PictureBookNum": 26,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_17",
+        "Recipe": "CookMeat + CookFish",
+        "Icon": "assets/icon/Item_Cook_B_17.png",
+        "PictureBookNum": 25,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_D_07",
+        "Recipe": "CookMeat + Item_Fruit_I",
+        "Icon": "assets/icon/Item_Cook_D_07.png",
+        "PictureBookNum": 37,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_D_08",
+        "Recipe": "CookFish + Item_Fruit_I",
+        "Icon": "assets/icon/Item_Cook_D_08.png",
+        "PictureBookNum": 38,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_23",
+        "Recipe": "Item_FishGet_M or Item_InsectGet_K or Item_InsectGet_O or Item_InsectGet_Z + CookFish",
+        "Icon": "assets/icon/Item_Cook_B_23.png",
+        "PictureBookNum": 6,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_05",
+        "Recipe": "CookFish + CookFish",
+        "Icon": "assets/icon/Item_Cook_B_05.png",
+        "PictureBookNum": 5,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_05",
+        "Recipe": "CookPlant + CookMeat",
+        "Icon": "assets/icon/Item_Cook_A_05.png",
+        "PictureBookNum": 12,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_04",
+        "Recipe": "CookPlant + CookFish",
+        "Icon": "assets/icon/Item_Cook_A_04.png",
+        "PictureBookNum": 13,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_02",
+        "Recipe": "CookPlant + CookMushroom",
+        "Icon": "assets/icon/Item_Cook_A_02.png",
+        "PictureBookNum": 11,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_03",
+        "Recipe": "CookPlant + CookFruit",
+        "Icon": "assets/icon/Item_Cook_A_03.png",
+        "PictureBookNum": 9,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_08",
+        "Recipe": "CookMushroom + CookFish",
+        "Icon": "assets/icon/Item_Cook_A_08.png",
+        "PictureBookNum": 3,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_09",
+        "Recipe": "CookMushroom + CookMeat",
+        "Icon": "assets/icon/Item_Cook_A_09.png",
+        "PictureBookNum": 2,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_07",
+        "Recipe": "CookMushroom + CookFruit",
+        "Icon": "assets/icon/Item_Cook_A_07.png",
+        "PictureBookNum": 46,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_01",
+        "Recipe": "Item_PlantGet_S + Item_Material_06 + Item_Material_11",
+        "Icon": "assets/icon/Item_Cook_B_01.png",
+        "PictureBookNum": 16,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_07",
+        "Recipe": "Item_PlantGet_S + Item_Material_06",
+        "Icon": "assets/icon/Item_Cook_Q_07.png",
+        "PictureBookNum": 19,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_06",
+        "Recipe": "CookMeat",
+        "Icon": "assets/icon/Item_Cook_B_06.png",
+        "PictureBookNum": 4,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_23",
+        "Recipe": "Item_FishGet_M or Item_InsectGet_K or Item_InsectGet_O or Item_InsectGet_Z",
+        "Icon": "assets/icon/Item_Cook_B_23.png",
+        "PictureBookNum": 6,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_05",
+        "Recipe": "CookFish",
+        "Icon": "assets/icon/Item_Cook_B_05.png",
+        "PictureBookNum": 5,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_10",
+        "Recipe": "Item_Material_04",
+        "Icon": "assets/icon/Item_Cook_A_10.png",
+        "PictureBookNum": 112,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_K_09",
+        "Recipe": "Item_Material_05",
+        "Icon": "assets/icon/Item_Cook_K_09.png",
+        "PictureBookNum": 133,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_A_01",
+        "Recipe": "CookMushroom",
+        "Icon": "assets/icon/Item_Cook_A_01.png",
+        "PictureBookNum": 1,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_01",
+        "Recipe": "CookPlant",
+        "Icon": "assets/icon/Item_Cook_B_01.png",
+        "PictureBookNum": 16,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_02",
+        "Recipe": "CookFruit",
+        "Icon": "assets/icon/Item_Cook_B_02.png",
+        "PictureBookNum": 47,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_B_22",
+        "Recipe": "Item_Fruit_K + Item_Fruit_L",
+        "Icon": "assets/icon/Item_Cook_B_22.png",
+        "PictureBookNum": 15,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_C_16",
+        "Recipe": "Animal_Insect_F",
+        "Icon": "assets/icon/Item_Cook_C_16.png",
+        "PictureBookNum": 228,
+        "BonusHeart": -12,
+        "SingleRecipeMaterialNum": 1
+    },
+    {
+        "ResultActorName": "Item_Cook_C_16",
+        "Recipe": "Animal_Insect_F",
+        "Icon": "assets/icon/Item_Cook_C_16.png",
+        "PictureBookNum": 228,
+        "BonusHeart": -12,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_O_02",
+        "Recipe": "CookOre",
+        "Icon": "assets/icon/Item_Cook_O_02.png",
+        "PictureBookNum": 146,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_B_21",
+        "Recipe": "Item_Fruit_I",
+        "Icon": "assets/icon/Item_Cook_B_21.png",
+        "PictureBookNum": 14,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_A_10",
+        "Recipe": "Item_Material_04",
+        "Icon": "assets/icon/Item_Cook_A_10.png",
+        "PictureBookNum": 112,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_B_06",
+        "Recipe": "CookMeat",
+        "Icon": "assets/icon/Item_Cook_B_06.png",
+        "PictureBookNum": 4,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_B_23",
+        "Recipe": "Item_FishGet_M or Item_InsectGet_K or Item_InsectGet_O or Item_InsectGet_Z",
+        "Icon": "assets/icon/Item_Cook_B_23.png",
+        "PictureBookNum": 6,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_B_05",
+        "Recipe": "CookFish",
+        "Icon": "assets/icon/Item_Cook_B_05.png",
+        "PictureBookNum": 5,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_A_01",
+        "Recipe": "CookMushroom",
+        "Icon": "assets/icon/Item_Cook_A_01.png",
+        "PictureBookNum": 1,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_I_16",
+        "Recipe": "BeeHome",
+        "Icon": "assets/icon/Item_Cook_I_16.png",
+        "PictureBookNum": 119,
+        "BonusHeart": -8,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_B_22",
+        "Recipe": "Item_Fruit_K or Item_Fruit_L",
+        "Icon": "assets/icon/Item_Cook_B_22.png",
+        "PictureBookNum": 15,
+        "BonusHeart": -2,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_K_09",
+        "Recipe": "Item_Material_05",
+        "Icon": "assets/icon/Item_Cook_K_09.png",
+        "PictureBookNum": 133,
+        "BonusHeart": 2,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_06",
+        "Recipe": "Item_PlantGet_S",
+        "Icon": "assets/icon/Item_Cook_Q_06.png",
+        "PictureBookNum": 18,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_B_01",
+        "Recipe": "CookPlant",
+        "Icon": "assets/icon/Item_Cook_B_01.png",
+        "PictureBookNum": 16,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_Q_01",
+        "Recipe": "Item_Fruit_M",
+        "Icon": "assets/icon/Item_Cook_Q_01.png",
+        "PictureBookNum": 49,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    },
+    {
+        "ResultActorName": "Item_Cook_B_02",
+        "Recipe": "CookFruit",
+        "Icon": "assets/icon/Item_Cook_B_02.png",
+        "PictureBookNum": 47,
+        "SingleRecipeMaterialNum": 1,
+        "IsSingleRecipe": true
+    }
+]
